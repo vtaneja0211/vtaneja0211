@@ -17,7 +17,7 @@ I am a recent graduate with a Bachelor of Science in Computer Engineering, with 
 **Web & Frameworks:** Next.js, React, Bootstrap, Tailwind CSS, Node.js  
 **Data & AI:** TensorFlow, PyTorch, scikit-learn, Pandas, Matplotlib, Vertex AI  
 **Reverse Engineering:** IDA Pro, OllyDbg, Logisim Evolution
-**Cloud & DevOps:** GCP (BigQuery, Cloud Storage), AWS, Docker, Kubernetes, Anaconda  
+**Cloud & DevOps:** GCP (BigQuery, Cloud Storage), Anaconda  
 **Security & Networking:** Wireshark, Nmap, Bash Shell  
 **Design & Collaboration:** Figma
 
