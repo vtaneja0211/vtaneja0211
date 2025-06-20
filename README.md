@@ -2,7 +2,7 @@
 
 ## Recently Graduated Computer Engineer @ University of Notre Dame
 
-I am a recent graduate with a Bachelor of Science in Computer Engineering, with a concentration in cybersecurity and AI. With a background bridging cultures—from growing up in Singapore to studying in the U.S. — I enjoy interdisciplinary projects spanning hardware, software, networks, and AI and am passionate about building applications on top of AI models.
+I am a recent graduate with a Bachelor of Science in Computer Engineering, with a concentration in cybersecurity and AI. With a background bridging cultures—from growing up in Singapore to studying in the U.S. — I enjoy interdisciplinary projects spanning hardware, software, and AI, and am interested in building applications on top of foundational AI models.
 
 - 🌍 Based in Singapore (with OPT approval to work in the USA)
 - 🎓 B.S. in Computer Engineering, University of Notre Dame
