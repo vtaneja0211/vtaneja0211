@@ -1,6 +1,6 @@
 # Hi, I'm **Varun Taneja** 👋
 
-## Recently Graduated Computer Engineer @ University of Notre Dame
+## Forward Deployed Engineer at Boom
 
 I am a recent graduate with a Bachelor of Science in Computer Engineering, with a concentration in cybersecurity and AI. With a background bridging cultures—from growing up in Singapore to studying in the U.S. — I enjoy interdisciplinary projects spanning hardware, software, and AI, and am interested in building applications on top of foundational AI models.
 
@@ -8,7 +8,7 @@ I am a recent graduate with a Bachelor of Science in Computer Engineering, with 
 - 🎓 B.S. in Computer Engineering, University of Notre Dame
 - 📫 Email: [varuntaneja0211@gmail.com](mailto:varuntaneja0211@gmail.com)
 - 📞 USA: +1 (269) 479-8385 | Singapore: +65 9757 2510
-- ⚙️ Open to full-time opportunities and collaborations
+- ⚙️ Working at Boom as a Forward Deployed Engineer @thewealthboom.com
 
 ---
 
