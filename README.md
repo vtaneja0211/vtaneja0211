@@ -1,14 +1,14 @@
 # Hi, I'm **Varun Taneja** 👋
 
-## Forward Deployed Engineer at Boom
+## Full Stack AI Engineer at Rowan
 
-I am a recent graduate with a Bachelor of Science in Computer Engineering, with a concentration in cybersecurity and AI. With a background bridging cultures—from growing up in Singapore to studying in the U.S. — I enjoy interdisciplinary projects spanning hardware, software, and AI, and am interested in building applications on top of foundational AI models.
+I graduated from Notre Dame with a Bachelor of Science in Computer Engineering, with a concentration in cybersecurity and AI. With a background bridging cultures—from growing up in Singapore to studying in the U.S. — I enjoy interdisciplinary projects spanning hardware, software, and AI, and am interested in building applications on top of foundational AI models.
 
 - 🌍 Based in Singapore (with OPT approval to work in the USA)
 - 🎓 B.S. in Computer Engineering, University of Notre Dame
 - 📫 Email: [varuntaneja0211@gmail.com](mailto:varuntaneja0211@gmail.com)
 - 📞 USA: +1 (269) 479-8385 | Singapore: +65 9757 2510
-- ⚙️ Working at Boom as a Forward Deployed Engineer @thewealthboom.com
+- ⚙️ Working at Rowan as a Full Stack AI Engineer @trustrowan.com
 
 ---
 
