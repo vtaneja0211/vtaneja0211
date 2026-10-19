@@ -4,7 +4,7 @@
 
 I graduated from Notre Dame with a Bachelor of Science in Computer Engineering, with a concentration in cybersecurity and AI. With a background bridging cultures—from growing up in Singapore to studying in the U.S. — I enjoy interdisciplinary projects spanning hardware, software, and AI, and am interested in building applications on top of foundational AI models.
 
-- 🌍 Based in Singapore (with OPT approval to work in the USA)
+- 🌍 Based in Chicago (on STEM OPT)
 - 🎓 B.S. in Computer Engineering, University of Notre Dame
 - 📫 Email: [varuntaneja0211@gmail.com](mailto:varuntaneja0211@gmail.com)
 - 📞 USA: +1 (269) 479-8385 | Singapore: +65 9757 2510
